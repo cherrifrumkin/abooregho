@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohxuliigh.interaktionsdesigner.de/sitemap.xml
